@@ -1,0 +1,17 @@
+Code Review
+Brandon-Pampuch
+UI-III-Flexbox
+3/20/2019
+
+Overall:
+Glad to see you’re getting github working. Your CSS and HTML is coming together nicely.
+
+What looks good:
+
+You were able to replicate the Nav across both pages.
+You got the boxes separated out on the services page nicely.
+
+Suggestions:
+Read the project instructions carefully before beginning to code; and refer back if you have any questions during the project. There were a few pieces that you missed:
+1.	You want to link the main page to the ‘services’ page with an <a> tag
+2.	You want to link the services page to the ‘main’ page as well.
